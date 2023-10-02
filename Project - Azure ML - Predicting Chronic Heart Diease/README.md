@@ -1,16 +1,16 @@
-# Tableau-Project
+# Predicting Chronic Hear Dieases by Using Azure ML
 
-***USC ISE543 Midterm Group Project***
+***USC ISE543 Final Project***
 
-**Dataset:** Kaggle 
-  - Two Tables: Customer Churn Table and Zip Code Population Table.
-  - Customer Churn Table: Dataset with 38 colunms with information on 7,043 customers.
+**Dataset:** Dataset with 18 colunms with information on 3,817 patients.
 
 
 **Project Objective:**
-- Conduct exploratory data analysis (EDA) about the dataset beforehand to have a comprehensive review on key statistics.
-- Deep dive into what drives customers churn.
-- Develop a marketing strategy for improving customer retention.
-- The audiences should be the leaders of the telecom company who need to make data-driven decisions and grab insights from our visualizations.
+- use Azure ML Studio Designer to build a classification model to predict the likelihood of a patient developing Chronic Heart Disease (CHD) in the coming ten years
 
-**Tools**: Tableau and Python
+**Steps:**
+- Exploratory Data Analysis/Data Preparation
+- Model Development
+- Model Deployment
+
+**Tools**: Tableau and Azure ML
